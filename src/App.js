@@ -1,6 +1,6 @@
 import React from 'react';
 import Neuroglancer from '@janelia-flyem/react-neuroglancer';
-import './App.css'
+import './App.css' //removed for bundling
 const defaultViewerState = {
   layers: {
     greyscale: {
